@@ -2,7 +2,7 @@
 
 ### Problem Statement 1:
 
-Findingk.py and Clustering.py (Output Images attached) 
+Findingk.py and Clustering.py (Output_Images attached) 
 
 ### Problem Statement 2:
 
