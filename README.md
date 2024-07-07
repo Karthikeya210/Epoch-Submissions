@@ -6,4 +6,4 @@ Findingk.py and Clustering.py (Output Images attached)
 
 ### Problem Statement 2:
 
-SpeechandSentimentRecog.ipnyb /n
+SpeechandSentimentRecog.ipnyb 
